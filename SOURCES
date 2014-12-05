@@ -1,0 +1,4 @@
+TARGETNAME=HookSysenter
+TARGETPATH=.
+TARGETTYPE=DRIVER
+SOURCES=Driver.c HookSysenter.c KeDrxHook.c KeLoadLibrary.c

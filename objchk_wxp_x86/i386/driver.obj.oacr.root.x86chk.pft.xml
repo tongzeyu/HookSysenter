@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+<OACRDEFECTCOUNT>1</OACRDEFECTCOUNT>
+<OACRERRORCOUNT>0</OACRERRORCOUNT>
+<DEFECT _seq="1"><OACRCOMPUNIT>d:\hooksysenter\driver.c</OACRCOMPUNIT><SFA><LINE>2</LINE><COLUMN>0</COLUMN><FILENAME>driver.c</FILENAME><FILEPATH>d:\hooksysenter\</FILEPATH></SFA><DEFECTCODE>20051</DEFECTCODE><DESCRIPTION>PREfast - Error processing 'driver.c' : fatal error C1083: Cannot open include file: 'ntdll.h': No such file or directory (try ' oacr log root:x86chk ' for details)</DESCRIPTION><FUNCTION></FUNCTION><FUNCLINE></FUNCLINE><PATH/></DEFECT>
+</DEFECTS>

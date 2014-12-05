@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+<OACRDEFECTCOUNT>3</OACRDEFECTCOUNT>
+<OACRERRORCOUNT>0</OACRERRORCOUNT>
+<DEFECT _seq="1"><SFA><LINE>44</LINE><COLUMN>28</COLUMN><FILENAME>keloadlibrary.c</FILENAME><FILEPATH>d:\hooksysenter\</FILEPATH></SFA><DEFECTCODE>28159</DEFECTCODE><DESCRIPTION>Consider using 'ExAllocatePoolWithTag' instead of 'ExAllocatePool'. Reason: No tag interferes with debugging..</DESCRIPTION><FUNCTION>KeLoadLibrary</FUNCTION><FUNCLINE>8</FUNCLINE><PATH/></DEFECT>
+<DEFECT _seq="2"><SFA><LINE>100</LINE><COLUMN>27</COLUMN><FILENAME>keloadlibrary.c</FILENAME><FILEPATH>d:\hooksysenter\</FILEPATH></SFA><DEFECTCODE>28159</DEFECTCODE><DESCRIPTION>Consider using 'ExAllocatePoolWithTag' instead of 'ExAllocatePool'. Reason: No tag interferes with debugging..</DESCRIPTION><FUNCTION>KeImageFile</FUNCTION><FUNCLINE>76</FUNCLINE><PATH/></DEFECT>
+<DEFECT _seq="3"><SFA><LINE>180</LINE><COLUMN>26</COLUMN><FILENAME>keloadlibrary.c</FILENAME><FILEPATH>d:\hooksysenter\</FILEPATH></SFA><DEFECTCODE>28159</DEFECTCODE><DESCRIPTION>Consider using 'ExAllocatePoolWithTag' instead of 'ExAllocatePool'. Reason: No tag interferes with debugging..</DESCRIPTION><FUNCTION>GetModuleBase</FUNCTION><FUNCLINE>171</FUNCLINE><PATH/></DEFECT>
+</DEFECTS>
